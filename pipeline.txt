@@ -1,0 +1,3 @@
+this is the first stage of my ci-cd pipeline
+I am hopeful that at the end of this process, I will be able to complete a whole cicd pipeline confidentially
+so help me Lord
